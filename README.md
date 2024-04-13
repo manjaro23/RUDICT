@@ -1,0 +1,2 @@
+# RUDICT
+Russian dictionary
